@@ -57,7 +57,7 @@ body {
 .main-content {
   flex: 1;
   height: calc(100vh - 4rem); 
-  display: flex
+  display: flex;
 }
 
 .main-content > .glass-card {
